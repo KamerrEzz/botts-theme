@@ -1,0 +1,13 @@
+{
+    "owner": {
+        "title": "Has encontrado un comando magico",
+        "message": "solo el owner o los desarrolladores pueden ejecutar este comando"
+    },
+    "DM": {
+        "title": "No es posible",
+        "message": "Este comando solo funciona dentro del servidor"  
+    },
+    "userPerms": {
+        "title": "No tiene permiso"
+    }
+}
